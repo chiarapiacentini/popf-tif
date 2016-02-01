@@ -47,7 +47,7 @@ To run the planner with the lookahead heuristic:
 
 To run the planner with the external solver:
 ```sh
-./popf3-clp -x domainfile problemfile externalsolver inputexternalsolver
+./popf3-clp -x domainfile problemfile externalsolver [inputexternalsolver]
 ```
 
 For more detailed information, please visit our Wiki Page.
